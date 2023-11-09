@@ -1,0 +1,64 @@
+body{
+    background-image: url(https://www.perunica.ru/uploads/fotos/foto_674.gif);
+}
+
+.randomFilm:hover{
+    transition: 200ms !important;
+    color: rgb(0, 0, 0) !important; 
+}
+
+.logoTxt{
+    opacity: 1;
+    transition: 350ms;
+}
+
+.logoTxt:hover{
+    opacity: 0.75;
+    transition: 350ms;
+}
+
+a{
+    transition: 350ms;
+}
+
+a:hover{
+    transition: 350ms;
+}
+
+.aColor:hover{
+    transition: 150ms !important;
+    color: rgb(153, 4, 4) !important; 
+}
+
+footer{
+    height: 15rem;
+}
+
+.ipc-rating-star--baseAlt.ipc-rating-star--imdb .ipc-icon {
+    color: #f5c518;
+}
+
+.ipc-rating-star .ipc-icon {
+    height: 1em;
+    width: 1em;
+    margin-right: .25em;
+    padding-bottom: .25em;
+}
+
+.ipc-icon {
+    vertical-align: middle;
+}
+
+.b-post__infotable_right_inner {
+    padding-left: 25px;
+}
+
+.filmImg:hover {
+    transition: 350ms;
+    opacity: 0.80;
+}
+
+.filmImg {
+    transition: 350ms;
+    opacity: 1;
+}
