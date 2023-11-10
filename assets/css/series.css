@@ -62,3 +62,10 @@ footer{
     transition: 350ms;
     opacity: 1;
 }
+
+
+.postName{
+    margin-top: 75px;
+    padding-top: 20px;
+    padding-left: 15px;
+}

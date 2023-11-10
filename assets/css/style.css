@@ -46,10 +46,6 @@ footer {
     height: 15rem;
 }
 
-.films {
-    width: 90rem;
-}
-
 .ipc-rating-star--baseAlt.ipc-rating-star--imdb .ipc-icon {
     color: #f5c518;
 }
@@ -64,3 +60,4 @@ footer {
 .ipc-icon {
     vertical-align: middle;
 }
+
