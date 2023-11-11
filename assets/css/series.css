@@ -69,3 +69,7 @@ footer{
     padding-top: 20px;
     padding-left: 15px;
 }
+
+.originalUrl:hover{
+    color: rgb(112, 13, 13);
+}

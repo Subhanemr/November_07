@@ -111,9 +111,10 @@ axios.get(urlId).then((response) => {
 
       <iframe width="80%" height="500" src="https://www.youtube.com/embed/_YAJxvTQxAA?si=Mmo1zXhm4IuCUaxv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-      <p class=" fw-bold fs-4 pt-1 mb-3 pb-3">Wanna see Original:<br>      <a
+      <p class=" fw-bold fs-4 pt-1 mb-3 pb-3">Wanna see Original:<br>      
+      <a
       href="${response.data.url}"
-      class=" fw-medium fs-6"
+      class="originalUrl fw-medium fs-6"
       >${response.data.url}</a> </p>
         `
 })
